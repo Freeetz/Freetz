@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/Freeetz">
-    <img alt="GitHub Profile Readme Generator" src="https://media.discordapp.net/attachments/901902029696430100/1005103193270796318/logo.png" width="60" />
+    <img alt="👋" src="https://media.discordapp.net/attachments/901902029696430100/1005103193270796318/logo.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  GitHub Profile README Generator
+  Freetz - Profil - 2022
 </h1>
 
 <a href="https://github.com/Freeetz/Freetz/fork" target="blank">
