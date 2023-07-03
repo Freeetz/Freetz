@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Freetz - Profil - 2022
+  Freetz - Profil - 2022/2023
 </h1>
 
 <a href="https://github.com/Freeetz/Freetz/fork" target="blank">
