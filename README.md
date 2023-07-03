@@ -20,6 +20,6 @@
 <img src="https://img.shields.io/github/issues-pr/Freeetz/Freetz?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
 <a href="https://discord.gg/uckbt72z2E" target="blank">
-<img src="https://img.shields.io/discord/971284024440025138?label=Join%20Community&logo=discord&style=flat-square" alt="Rejoindre le serveur discord de Freetz Shop's"/>
+<img src="https://img.shields.io/discord/971284024440025138?label=Join%20Community&logo=discord&style=flat-square" alt="Rejoindre le serveur discord de Freetz"/>
 </a>
 </p>
