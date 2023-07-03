@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Freeetz">
-    <img alt="👋" src="https://media.discordapp.net/attachments/901902029696430100/1005103193270796318/logo.png" width="60" />
+    <img alt="👋" src="https://cdn.discordapp.com/attachments/971299761489596417/1125500080988901458/Logo_Freetz.png" width="60" />
   </a>
 </p>
 <h1 align="center">
@@ -21,10 +21,5 @@
 </a>
 <a href="https://discord.gg/uckbt72z2E" target="blank">
 <img src="https://img.shields.io/discord/971284024440025138?label=Join%20Community&logo=discord&style=flat-square" alt="Rejoindre le serveur discord de Freetz Shop's"/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://www.paypal.com/paypalme/lGAMINGFR"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
 </a>
 </p>
